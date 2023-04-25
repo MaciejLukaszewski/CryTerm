@@ -25,6 +25,8 @@ For python `readchar` library is required:
 ```
 pip install readchar
 ```
+## Run
+`python cryterminal.py`
 
 ## Notes
 
