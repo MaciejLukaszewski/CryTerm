@@ -10,9 +10,11 @@ CryTerminal is a simple ASCII art animation of falling characters.
 ## Installation
 
 It's recomended to use [Hyper](https://hyper.is/) terminal with:
+
 * [hyperminimal](https://www.npmjs.com/package/hyperminimal)
 * [hyper-snazzy](https://www.npmjs.com/package/hyper-snazzy)
 * [hyper-transparent-dynamic](https://www.npmjs.com/package/hyper-transparent-dynamic)
+
 plugins, as it allows flexible customization.
 ```
 npm i hyper-transparent-dynamic
