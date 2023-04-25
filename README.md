@@ -28,6 +28,7 @@ For python `readchar` library is required:
 pip install readchar
 ```
 ## Run
+Open [Hyper](https://hyper.is/) terminal and run:
 `python cryterminal.py`
 
 ## Notes
