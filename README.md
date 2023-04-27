@@ -33,4 +33,4 @@ Open [Hyper](https://hyper.is/) terminal and run:
 
 ## Notes
 
-Application was tested on Debian GNU/Linux distribution. Python version used ```3.11.2```
+Application was tested on Debian GNU/Linux distribution. Python version used ```3.11.2```.
